@@ -2,10 +2,6 @@
 
 This is a simple project for prediction of first Innings Score for IPL.
 
-A simple linear Regression model has been applied (as of now).
+Linear Regression, Ridge Regression and Lasso Regression have been applied on the dataset.
 
-Future Plans: 
-
-1) To apply other models and check which model predicts the best.
-
-2) To create an app and deploy it.
+Pickle model for the Lasso Regression has been created.
